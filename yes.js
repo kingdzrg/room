@@ -13,7 +13,7 @@ client.on('message', msg => {
 }
 })
 client.on('ready', () => {
-    client.channels.get("545694572823445524").join(); 
+    client.channels.get("648803314795937792").join(); 
     });
 	
 client.login(process.env.TOKEN)
